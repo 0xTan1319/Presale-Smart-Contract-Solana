@@ -3,7 +3,7 @@
 Smart contract designed for facilitating the sale of SPL tokens with additional features, including a presale mechanism and allocation tickets. The contract is built using the Anchor framework.
 
 ## Contact
-telegram: @shinnyleo0912
+telegram: @shiny0103
 
 You can contact me here if you have any problems with this repo then we can decide comfortable contact way.
 
